@@ -7,7 +7,7 @@
 ## :palm_tree:I am a college student
 
 ## And this is my profile
-### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom
+### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom:
 
 
 ```javascript
@@ -20,4 +20,4 @@ const Ind = {
 }
 ```
 
-### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blosso
+### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom:
