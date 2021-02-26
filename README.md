@@ -7,7 +7,7 @@
 ## :palm_tree:I am a college student
 
 ## And this is my profile
-### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom:
+### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom
 
 
 ```javascript
@@ -20,7 +20,4 @@ const Ind = {
 }
 ```
 
-### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom:
-
-
-![Cat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+### :blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blossom::blosso
