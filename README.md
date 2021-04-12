@@ -2,7 +2,7 @@
 
 # :deciduous_tree:Hello Everyone :smile::smile:
 
-## :fallen_leaf:My Name is tridi
+## :fallen_leaf:My Name is Dimas Tri
 
 ## :palm_tree:I am a college student
 
