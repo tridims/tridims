@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, Machine Learning, Web Development**
 
-- 📝 I regularly write articles on [www.dimastri.online](www.dimastri.online)
+- 📝 I regularly write articles on [here](www.dimastri.online)
 
 - 📫 How to reach me **tri.dimas3112@gmail.com**
 
