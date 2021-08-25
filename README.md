@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Javascript, Machine Learning, Web Development**
 
-- 📝 I regularly write articles on [here](www.dimastri.online)
+- 📝 I regularly write articles on [here](https://www.dimastri.online)
+
+- 📝 And here is my Kaggle Profile [Kaggle](https://www.kaggle.com/dimastri)
 
 - 📫 How to reach me **tri.dimas3112@gmail.com**
 
