@@ -1,13 +1,14 @@
 ![CatFirst](https://media.giphy.com/media/UslGBU1GPKc0g/source.gif)
 
 <h1 align="center">Hi 👋, I'm Dimas Tri</h1>
-<h3 align="center">A passionate University Student who love to study about Computer Science</h3>
+<h3 align="center">A passionate Computer Science Student who love to study about Tech related stuff</h3>
+<h3 align="center">Nice to meet you everyone !</h3>
 
 - 🌱 I’m currently learning **Javascript, Machine Learning, Web Development**
 
 - 📝 I regularly write articles on [here](https://www.dimastri.online)
 
-- 📝 And here is my Kaggle Profile [Kaggle](https://www.kaggle.com/dimastri)
+- 📝 And here is my [Kaggle Profile](https://www.kaggle.com/dimastri)
 
 - 📫 How to reach me **tri.dimas3112@gmail.com**
 
