@@ -1,13 +1,12 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
 
 # 💫 About Me:
 🔭 Undergraduate student at Brawijaya University<br>👯 I’m looking for working opportunities<br>🤝 I’m looking for anything interesting<br>🌱 I’m currently learning full-stack development<br>💬 Ask me about anything<br>⚡ Fun fact: I like technology
 
 
 ## 🌐 Socials:
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dimastrim) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@tridim)  -->
 <div align="center">
 <a href="https://github.com/tridims" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
