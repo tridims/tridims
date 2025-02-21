@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 🔭 Halo! My name is Dimas. Nice to meet you!<br>
-👯 I am working in the field of Backend Development, SRE, DevOps, and Cloud Infrastructure.<br>
+👯 I am working in the field of Backend Engineering, SRE, DevOps, and Cloud Infrastructure.<br>
 😁 I like Open Source stuff, Game, Anime, Manga, and anything interesting.<br>
 🚀 I am currently really interested in LLM, trying to automate everything with it.<br>
 
